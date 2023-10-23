@@ -10,7 +10,7 @@ STRING powershell -w h -NoP -NonI -Exec Bypass Start-Process "
 REM put your youtube link here, you should test it out with mine first though ;D 
 STRING https://www.youtube.com/iamjakoby
 
-STRING ?sub_confirmation=1"
+STRING ?sub_confirmation=1
 DELAY 500
 ENTER 
 DELAY 3000
